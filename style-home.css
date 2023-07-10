@@ -1,58 +1,49 @@
-.tituloprincipal{
-
-    padding-left:40px;
+.titulo-principal{
+    padding-left: 30px;
 }
 
-#banner {
-
-    width: 100%;
+#banner{
+    width:100%;
 }
-.Principal{
 
+.principal{
     background: #CCCCCC;
-    padding: 30PX;    
+    padding: 20px;
 }
-h2 {
+
+.titulo-centralizado{
     text-align: center;
 }
 
-p {
+p{
     text-align: center;
-   } 
+}
 
 em strong{
-    color: red;
-   }
+    color:red;
+}
 
-   #mision{
+#mision{
     font-size: 20px;
-   } 
+}
 
 .diferenciales{
     background: #FFFFFF;
-    padding: 30PX;
-
+    padding: 30px;
 }
 
-H3{
-
-    text-align: center;
-}
 .items{
+    font-style: italic;
+}
 
-     font-style: italic;
-   }
-
-   ul{
-
+ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+}
 
+.imagenDiferenciales{
+    width: 50%;
+}
 
-   }
-   .imagendifereneciales{
-
-    width: ;
-   }
